@@ -8,7 +8,7 @@ from autotui.fileio import namedtuple_sequence_load
 
 
 # As generic of an approach as I can manage without site specific code
-# For example of usage of this, see https://github.com/seanbreckenridge/HPI/blob/master/my/old_forums.py
+# For example of usage of this, see https://github.com/purarue/HPI/blob/master/my/old_forums.py
 
 
 class AchievementSelector(NamedTuple):

@@ -12,9 +12,8 @@ pkg = "old_forums"
 setup(
     name=pkg,
     version="0.1.0",
-    url="https://github.com/seanbreckenridge/old_forums",
-    author="Sean Breckenridge",
-    author_email="seanbrecke@gmail.com",
+    url="https://github.com/purarue/old_forums",
+    author="purarue",
     description=("""Parses posts/achievements from random forums I used in the past"""),
     long_description=long_description,
     long_description_content_type="text/markdown",
